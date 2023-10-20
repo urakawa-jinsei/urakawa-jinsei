@@ -13,6 +13,10 @@ I am a first year backend engineer.
 
 <img src="https://skillicons.dev/icons?i=go,java,html,css">
 
+## Certification
+
+<img src="https://images.credly.com/images/776c8fc4-84da-4563-bf98-0941242506f5/Japan_Gold_Java_SE_11_Programmer_Badge__1_.png" width="100px">
+
 ## My Scores
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
