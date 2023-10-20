@@ -1,4 +1,9 @@
 ### Hi there 👋
+<p align="left">
+  <a href="https://github.com/urakawa-jinsei">
+    <img src="https://komarev.com/ghpvc/?username=urakawa-jinsei&color=brightgreen&label=PROFILE+VIEWS">
+  </a> 
+</p>
 
 <!--
 **urakawa-jinsei/urakawa-jinsei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
