@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋 I'm Jinsei Urakawa working on RAI
 <p align="left">
   <a href="https://github.com/urakawa-jinsei">
     <img src="https://komarev.com/ghpvc/?username=urakawa-jinsei&color=brightgreen&label=Profile+Views">
