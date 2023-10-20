@@ -11,15 +11,18 @@
 
 I am a first year backend engineer.
 
-## My Scores
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=urakawa-jinsei&show_icons=true&theme=vue-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urakawa-jinsei&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## My Skills 🩷
 
 <img src="https://skillicons.dev/icons?i=go,java,html,css">
+
+## My Scores
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=urakawa-jinsei&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urakawa-jinsei" />
+</a>
 
 <!--
 **urakawa-jinsei/urakawa-jinsei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
