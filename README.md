@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=urakawa-jinsei&color=brightgreen&label=Profile+Views">
   </a> 
   <a href="https://zenn.dev/urakawa_jinsei">  
-    <img src="https://badgen.org/img/zenn/nameless_sn/followers?style=flat">
+    <img src="https://badgen.org/img/zenn/urakawa_jinsei/followers?style=flat">
 </p>
 
 ![urakawa-jinsei's GitHub stats](https://github-readme-stats.vercel.app/api?username=urakawa-jinsei&show_icons=true&theme=vue-dark)
