@@ -17,6 +17,9 @@ I am a first year backend engineer.
   <a href="https://zenn.dev/urakawa_jinsei">
     <img height="20" src="https://badgen.org/img/zenn/urakawa_jinsei/articles?style=plastic" />
   </a>
+  <a href="https://zenn.dev/urakawa_jinsei">  
+    <img height="20" src="https://badgen.org/img/zenn/urakawa_jinsei/followers?style=flat">
+  </a>
 </p>
 
 
