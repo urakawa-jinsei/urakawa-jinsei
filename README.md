@@ -31,7 +31,6 @@ I am a first year backend engineer.
 
 <div>
   <img src="https://github.com/urakawa-jinsei/urakawa-jinsei/blob/main/oracle.png" width="100px">
-  <img src="https://github.com/urakawa-jinsei/urakawa-jinsei/blob/main/ouyou.png" width="100px">
 </div>
 
 ## My Scores
