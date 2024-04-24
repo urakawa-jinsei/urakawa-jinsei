@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jinsei Urakawa working on RAI
 
-I am a first year backend engineer.
+I am a second year backend engineer.
 <p align="left">
   <a href="https://github.com/urakawa-jinsei">
     <img height="20" src="https://komarev.com/ghpvc/?username=urakawa-jinsei" />
