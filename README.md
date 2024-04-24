@@ -30,7 +30,7 @@ I am a first year backend engineer.
 ## Certification
 
 <div>
-  <img src="https://github.com/urakawa-jinsei/urakawa-jinsei/blob/main/oracle.png" width="100px">
+  <img src="https://images.credly.com/images/776c8fc4-84da-4563-bf98-0941242506f5/Japan_Gold_Java_SE_11_Programmer_Badge__1_.png" width="100px">
 </div>
 
 ## My Scores
