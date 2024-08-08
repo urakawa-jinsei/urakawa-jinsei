@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Jinsei Urakawa working on RAI
+## Hi there 👋 I'm Jinsei Urakawa working on TRIAL Company
 
 I am a second year backend engineer.
 <p align="left">
