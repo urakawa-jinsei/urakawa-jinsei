@@ -8,11 +8,11 @@ I am a backend engineer.
   <a href="https://github.com/urakawa-jinsei">
     <img height="20" src="https://img.shields.io/github/followers/urakawa-jinsei?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/urakawa_jinsei">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/urakawa_jinsei/posts.svg" />
+  <a href="https://qiita.com/urakawa_jinsei">
+    <img height="20" src="https://qiita-badge.vercel.app/api/urakawa_jinsei/posts.svg" />
   </a>
-  <a href="http://qiita.com/urakawa_jinsei">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/urakawa_jinsei/contributions.svg" />
+  <a href="https://qiita.com/urakawa_jinsei">
+    <img height="20" src="https://qiita-badge.vercel.app/api/urakawa_jinsei/contributions.svg" />
   </a>
   <a href="https://zenn.dev/urakawa_jinsei">
     <img height="20" src="https://badgen.org/img/zenn/urakawa_jinsei/articles?style=plastic" />
