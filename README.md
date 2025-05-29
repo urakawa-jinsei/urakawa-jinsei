@@ -27,7 +27,7 @@ I am a backend engineer.
 
 ## My Skills 🩷
 
-<img src="https://skillicons.dev/icons?i=go,java,html,css">
+<img src="https://skillicons.dev/icons?i=go,gcp,postgresql,docker">
 
 ## Certification
 
