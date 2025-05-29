@@ -2,12 +2,6 @@
 
 I am a backend engineer.
 <p align="left">
-  <a href="http://qiita.com/urakawa_jinsei">
-    <img height="20" src="https://badgen.org/img/qiita/urakawa_jinsei/followers?style=plastic" />
-  </a>
-  <a href="http://qiita.com/urakawa_jinsei">
-    <img height="20" src="https://badgen.org/img/qiita/urakawa_jinsei/articles?style=plastic" />
-  </a>
   <a href="https://zenn.dev/urakawa_jinsei">
     <img height="20" src="https://badgen.org/img/zenn/urakawa_jinsei/likes?style=plastic" />
   </a>
@@ -15,7 +9,18 @@ I am a backend engineer.
     <img height="20" src="https://badgen.org/img/zenn/urakawa_jinsei/followers?style=plastic" />
   </a>
   <a href="https://zenn.dev/urakawa_jinsei">  
-    <img height="20" src="https://badgen.org/img/zenn/urakawa_jinsei/articles?style=plastic">
+    <img height="20" src="https://badgen.org/img/zenn/urakawa_jinsei/articles?style=plastic" />
+  </a>
+</p>
+<p align="left">
+  <a href="http://qiita.com/urakawa_jinsei">
+    <img height="20" src="https://badgen.org/img/qiita/urakawa_jinsei/contributions?style=plastic" />
+  </a>
+  <a href="http://qiita.com/urakawa_jinsei">
+    <img height="20" src="https://badgen.org/img/qiita/urakawa_jinsei/followers?style=plastic" />
+  </a>
+  <a href="http://qiita.com/urakawa_jinsei">
+    <img height="20" src="https://badgen.org/img/qiita/urakawa_jinsei/articles?style=plastic" />
   </a>
 </p>
 
