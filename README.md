@@ -1,6 +1,12 @@
-## Hi there 👋 I'm Jinsei Urakawa
+<h1 align="center">Hi 👋, I'm Jinsei Urakawa</h1>
+<h3 align="center">A passionate backend developer from Japan</h3>
 
-I am a backend engineer.
+- 📝 I regularly write articles on [urakawa-jinsei.github.io](urakawa-jinsei.github.io)
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <p align="left">
   <a href="https://zenn.dev/urakawa_jinsei">
     <img height="20" src="https://badgen.org/img/zenn/urakawa_jinsei/likes?style=plastic" />
@@ -24,34 +30,14 @@ I am a backend engineer.
   </a>
 </p>
 
-
-## My Skills 🩷
-
-<img src="https://skillicons.dev/icons?i=go,gcp,postgresql,docker">
-
-## Certification
-
-<div>
-  <img src="https://images.credly.com/images/776c8fc4-84da-4563-bf98-0941242506f5/Japan_Gold_Java_SE_11_Programmer_Badge__1_.png" width="100px">
-</div>
-
-## My Scores
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=urakawa-jinsei&count_private=true&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urakawa-jinsei&layout=compact" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jins8urakawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jins8urakawa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/urakawa-jinsei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="urakawa-jinsei" height="30" width="40" /></a>
+<a href="/https://urakawa-jinsei.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://urakawa-jinsei.github.io/feed.xml" height="30" width="40" /></a>
 </p>
-<!--
-**urakawa-jinsei/urakawa-jinsei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=urakawa-jinsei&show_icons=true&locale=en&layout=compact" alt="urakawa-jinsei" /></p>
