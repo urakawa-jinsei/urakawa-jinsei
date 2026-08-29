@@ -7,6 +7,29 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<p align="left">
+  <a href="https://zenn.dev/urakawa_jinsei">
+    <img height="20" src="https://badgen.org/img/zenn/urakawa_jinsei/likes?style=plastic" />
+  </a>
+  <a href="https://zenn.dev/urakawa_jinsei">
+    <img height="20" src="https://badgen.org/img/zenn/urakawa_jinsei/followers?style=plastic" />
+  </a>
+  <a href="https://zenn.dev/urakawa_jinsei">  
+    <img height="20" src="https://badgen.org/img/zenn/urakawa_jinsei/articles?style=plastic" />
+  </a>
+</p>
+<p align="left">
+  <a href="http://qiita.com/urakawa_jinsei">
+    <img height="20" src="https://badgen.org/img/qiita/urakawa_jinsei/contributions?style=plastic" />
+  </a>
+  <a href="http://qiita.com/urakawa_jinsei">
+    <img height="20" src="https://badgen.org/img/qiita/urakawa_jinsei/followers?style=plastic" />
+  </a>
+  <a href="http://qiita.com/urakawa_jinsei">
+    <img height="20" src="https://badgen.org/img/qiita/urakawa_jinsei/articles?style=plastic" />
+  </a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jins8urakawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jins8urakawa" height="30" width="40" /></a>
