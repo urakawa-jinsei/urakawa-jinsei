@@ -5,6 +5,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AIがうまくいかないのは、AIのせいじゃない](https://urakawa-jinsei.github.io/posts/ai-native-development-update-your-mindset/)
+- [flakyテストを書くな](https://urakawa-jinsei.github.io/posts/flaky-test-4-patterns/)
+- [SQLの相関副問い合わせを完全に理解する](https://urakawa-jinsei.github.io/posts/sql-correlated-subquery/)
+- [Go で学ぶ TDD チュートリアル — t_wada 式 5 ステップで体感する Red/Green/Refactor](https://urakawa-jinsei.github.io/posts/tdd-go-tutorial/)
+- [GitHub Pages × Chirpyで爆速テックブログを作る](https://urakawa-jinsei.github.io/posts/create-github-io-tech-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
