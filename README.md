@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jinsei Urakawa</h1>
 <h3 align="center">A passionate backend developer from Japan</h3>
 
-- 📝 I regularly write articles on [urakawa-jinsei.github.io](urakawa-jinsei.github.io)
+- 📝 I regularly write articles on [urakawa-jinsei.github.io](https://urakawa-jinsei.github.io)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
